@@ -43,4 +43,6 @@
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 
+#define TAPPING_TERM 175
+
 #endif
